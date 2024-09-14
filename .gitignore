@@ -6,3 +6,4 @@ cheats.json
 *zip
 *.dylib
 .DS_Store
+parallel-rsp/lightning/gnulibs # TempFix for Submodule Error

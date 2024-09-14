@@ -1,0 +1,24 @@
+[submodule "mupen64plus-core"]
+	path = mupen64plus-core
+	url = https://github.com/simple64/mupen64plus-core.git
+[submodule "simple64-gui"]
+	path = simple64-gui
+	url = https://github.com/simple64/simple64-gui.git
+[submodule "simple64-audio-sdl2"]
+	path = simple64-audio-sdl2
+	url = https://github.com/simple64/simple64-audio-sdl2.git
+[submodule "simple64-input-qt"]
+	path = simple64-input-qt
+	url = https://github.com/simple64/simple64-input-qt.git
+[submodule "simple64-input-raphnetraw"]
+	path = simple64-input-raphnetraw
+	url = https://github.com/simple64/simple64-input-raphnetraw.git
+[submodule "parallel-rsp"]
+	path = parallel-rsp
+	url = https://github.com/simple64/parallel-rsp.git
+[submodule "parallel-rdp-standalone"]
+	path = parallel-rdp-standalone
+	url = https://github.com/simple64/parallel-rdp-standalone.git
+[submodule "rcheevos"]
+	path = rcheevos
+	url = https://github.com/RetroAchievements/rcheevos.git
